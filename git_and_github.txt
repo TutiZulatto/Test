@@ -1,0 +1,1 @@
+Git es una herramienta para el versionado de codigo, mientras qu egithub es una plataforma para alojar y administrar proyectos utilizando git
